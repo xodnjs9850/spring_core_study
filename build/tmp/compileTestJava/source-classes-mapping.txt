@@ -1,0 +1,8 @@
+com/spring/core/basic/oop/member/MemberTest.java
+ com.spring.core.basic.oop.member.MemberTest
+com/spring/core/basic/oop/opder/OrderServiceTest.java
+ com.spring.core.basic.oop.opder.OrderServiceTest
+com/spring/core/basic/printer/PrinterTest.java
+ com.spring.core.basic.printer.PrinterTest
+com/spring/core/basic/BasicApplicationTests.java
+ com.spring.core.basic.BasicApplicationTests
