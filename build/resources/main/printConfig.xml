@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- paper bean 등록 -->
-    <bean id="paper" class="com.spring.core.basic.printer.Paper.java">
+    <bean id="paper" class="com.spring.core.basic.printer.Paper">
         <property name="datas">
             <list>
                 <value>JAVA</value>
@@ -15,7 +15,7 @@
     </bean>
 
     <!-- printer bean 등록 -->
-    <bean id="printer" class="com.spring.core.basic.printer.Printer.java">
+    <bean id="printer" class="com.spring.core.basic.printer.Printer">
         <constructor-arg ref="paper" />
     </bean>
 

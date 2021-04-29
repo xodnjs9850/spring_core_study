@@ -1,0 +1,9 @@
+§16:11:38.414 [Test worker] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 2 bean definitions from class path resource [printConfig.xml]
+º16:11:38.414 [Test worker] DEBUG org.springframework.context.support.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@68ceff33
+œ16:11:38.446 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'paper'
+ž16:11:38.493 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'printer'
+,------------- ì¶œë ¥ ë‚´ìš© --------------
+# JAVA
+
+# Spring
+# DI Container
