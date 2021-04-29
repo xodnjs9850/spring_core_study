@@ -5,38 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e096a46-c960-4f25-9a8e-c3113d8395ad" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/config/PrinterConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/discount/DiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/discount/FixDiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/discount/RateDiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/member/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/member/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/member/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/member/MemberRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/member/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/member/MemberServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/opder/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/opder/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/oop/opder/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/printer/Paper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/printer/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/printConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/spring/core/basic/oop/member/MemberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/spring/core/basic/oop/opder/OrderServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/spring/core/basic/printer/PrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/config/ComputerAutoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/config/HotelAutoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/config/HotelConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/hotel/Chef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/hotel/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/quiz/AppleMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/quiz/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/quiz/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/quiz/LgMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/quiz/LgMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/quiz/LogitecMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/quiz/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/quiz/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/quiz/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/quiz/SamsungKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hotelConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/spring/core/basic/hotel/HotelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/spring/core/basic/quiz/ComputerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/spring/core/basic/quiz/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/BasicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/core/basic/BasicApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.spring.core.basic.printer.PrinterTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.spring.core.basic.printer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.spring.core.basic.printer.PrinterTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +56,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,11 +101,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dvdrental" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_study" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.spring.core.basic.quiz" />
+      <recent name="com.spring.core.basic.hotel" />
       <recent name="com.spring.core.basic.oop.opder" />
       <recent name="com.spring.core.basic.oop.member" />
     </key>
@@ -94,18 +115,20 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.spring.core.basic.quiz" />
+      <recent name="com.spring.core.basic.hotel" />
       <recent name="com.spring.core.basic.printer" />
       <recent name="com.spring.core.basic.oop.opder" />
       <recent name="com.spring.core.basic.oop.member" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.PrinterTest.printerTestByXmlConfig">
-    <configuration name="MemberTest.lombokTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.ComputerTest.computerTest">
+    <configuration name="BasicApplicationTests.contextLoads" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.spring.core.basic.oop.member.MemberTest.lombokTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.spring.core.basic.BasicApplicationTests.contextLoads&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -121,12 +144,12 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="OrderServiceTest.serviceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ComputerTest.computerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.spring.core.basic.oop.opder.OrderServiceTest.serviceTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.spring.core.basic.quiz.ComputerTest.computerTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -142,12 +165,12 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PrinterTest.printerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="HotelTest.hotelAutoConfigTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.spring.core.basic.printer.PrinterTest.printerTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.spring.core.basic.hotel.HotelTest.hotelAutoConfigTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -163,12 +186,33 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PrinterTest.printerTestByXmlConfig" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="HotelTest.hotelXmlTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.spring.core.basic.printer.PrinterTest.printerTestByXmlConfig&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.spring.core.basic.hotel.HotelTest.hotelXmlTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PersonTest.personTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.spring.core.basic.quiz.PersonTest.personTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -186,10 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.PrinterTest.printerTestByXmlConfig" />
-        <item itemvalue="Gradle.PrinterTest.printerTest" />
-        <item itemvalue="Gradle.OrderServiceTest.serviceTest" />
-        <item itemvalue="Gradle.MemberTest.lombokTest" />
+        <item itemvalue="Gradle.ComputerTest.computerTest" />
+        <item itemvalue="Gradle.PersonTest.personTest" />
+        <item itemvalue="Gradle.BasicApplicationTests.contextLoads" />
+        <item itemvalue="Gradle.HotelTest.hotelAutoConfigTest" />
+        <item itemvalue="Gradle.HotelTest.hotelXmlTest" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +268,28 @@
       <option name="project" value="LOCAL" />
       <updated>1619593408503</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bean 설정 및 기본 학습">
+      <created>1619668066624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619668066624</updated>
+    </task>
+    <task id="LOCAL-00005" summary="bean 설정 및 기본 학습">
+      <created>1619668207377</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619668207377</updated>
+    </task>
+    <task id="LOCAL-00006" summary="bean 설정 및 기본 학습">
+      <created>1619668243059</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619668243059</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

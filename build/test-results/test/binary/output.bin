@@ -1,9 +1,28 @@
-ß16:11:38.414 [Test worker] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 2 bean definitions from class path resource [printConfig.xml]
-∫16:11:38.414 [Test worker] DEBUG org.springframework.context.support.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@68ceff33
-ú16:11:38.446 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'paper'
-û16:11:38.493 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'printer'
-,------------- Ï∂úÎ†• ÎÇ¥Ïö© --------------
-# JAVA
-
-# Spring
-# DI Container
+Ã15:38:29.466 [Test worker] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@638b2fe1
+Ê15:38:29.481 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+Å15:38:29.528 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [D:\developing_ktw\spring_core_basic\build\classes\java\main\com\spring\core\basic\quiz\AppleMonitor.class]
+˝15:38:29.528 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [D:\developing_ktw\spring_core_basic\build\classes\java\main\com\spring\core\basic\quiz\Computer.class]
+˛15:38:29.528 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [D:\developing_ktw\spring_core_basic\build\classes\java\main\com\spring\core\basic\quiz\LgMonitor.class]
+¸15:38:29.528 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [D:\developing_ktw\spring_core_basic\build\classes\java\main\com\spring\core\basic\quiz\LgMouse.class]
+Å15:38:29.528 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [D:\developing_ktw\spring_core_basic\build\classes\java\main\com\spring\core\basic\quiz\LogitecMouse.class]
+Ñ15:38:29.528 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [D:\developing_ktw\spring_core_basic\build\classes\java\main\com\spring\core\basic\quiz\SamsungKeyboard.class]
+◊15:38:29.591 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+’15:38:29.591 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+‚15:38:29.606 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+ﬂ15:38:29.606 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+©15:38:29.606 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'computerAutoConfig'
+£15:38:29.606 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'appleMonitor'
+ü15:38:29.606 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'computer'
+¶15:38:29.622 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'samsungKeyboard'
+ö15:38:29.622 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'lgm'
+∆15:38:29.622 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'computer' via constructor to bean named 'samsungKeyboard'
+∫15:38:29.622 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'computer' via constructor to bean named 'lgm'
+√15:38:29.622 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'computer' via constructor to bean named 'appleMonitor'
+†15:38:29.622 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'LgMonitor'
+û15:38:29.622 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'lgMouse'
+9computer = com.spring.core.basic.quiz.Computer@302ece32
+:computer2 = com.spring.core.basic.quiz.Computer@302ece32
+:computer3 = com.spring.core.basic.quiz.Computer@302ece32
+ÏÇºÏÑ± ÌÇ§Î≥¥Îìú
+Apple Î™®ÎãàÌÑ∞
+Î°úÏßÄÌÖç ÎßàÏö∞Ïä§

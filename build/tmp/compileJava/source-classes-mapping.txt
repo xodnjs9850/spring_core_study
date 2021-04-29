@@ -34,3 +34,35 @@ com/spring/core/basic/config/PrinterConfig.java
  com.spring.core.basic.config.PrinterConfig
 com/spring/core/basic/printer/Printer.java
  com.spring.core.basic.printer.Printer
+com/spring/core/basic/config/HotelConfig.java
+ com.spring.core.basic.config.HotelConfig
+com/spring/core/basic/config/HotelAutoConfig.java
+ com.spring.core.basic.config.HotelAutoConfig
+com/spring/core/basic/hotel/Chef.java
+ com.spring.core.basic.hotel.Chef
+com/spring/core/basic/hotel/Restaurant.java
+ com.spring.core.basic.hotel.Restaurant
+com/spring/core/basic/hotel/Hotel.java
+ com.spring.core.basic.hotel.Hotel
+com/spring/core/basic/quiz/AppleMonitor.java
+ com.spring.core.basic.quiz.AppleMonitor
+com/spring/core/basic/config/ComputerAutoConfig.java
+ com.spring.core.basic.config.ComputerAutoConfig
+com/spring/core/basic/quiz/Keyboard.java
+ com.spring.core.basic.quiz.Keyboard
+com/spring/core/basic/quiz/LgMonitor.java
+ com.spring.core.basic.quiz.LgMonitor
+com/spring/core/basic/quiz/Mouse.java
+ com.spring.core.basic.quiz.Mouse
+com/spring/core/basic/quiz/LgMouse.java
+ com.spring.core.basic.quiz.LgMouse
+com/spring/core/basic/quiz/SamsungKeyboard.java
+ com.spring.core.basic.quiz.SamsungKeyboard
+com/spring/core/basic/quiz/Monitor.java
+ com.spring.core.basic.quiz.Monitor
+com/spring/core/basic/quiz/Computer.java
+ com.spring.core.basic.quiz.Computer
+com/spring/core/basic/quiz/LogitecMouse.java
+ com.spring.core.basic.quiz.LogitecMouse
+com/spring/core/basic/quiz/Person.java
+ com.spring.core.basic.quiz.Person

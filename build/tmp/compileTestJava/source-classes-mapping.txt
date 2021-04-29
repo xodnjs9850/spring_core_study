@@ -1,8 +1,14 @@
-com/spring/core/basic/oop/member/MemberTest.java
- com.spring.core.basic.oop.member.MemberTest
-com/spring/core/basic/oop/opder/OrderServiceTest.java
- com.spring.core.basic.oop.opder.OrderServiceTest
 com/spring/core/basic/BasicApplicationTests.java
  com.spring.core.basic.BasicApplicationTests
+com/spring/core/basic/oop/member/MemberTest.java
+ com.spring.core.basic.oop.member.MemberTest
+com/spring/core/basic/hotel/HotelTest.java
+ com.spring.core.basic.hotel.HotelTest
+com/spring/core/basic/oop/opder/OrderServiceTest.java
+ com.spring.core.basic.oop.opder.OrderServiceTest
 com/spring/core/basic/printer/PrinterTest.java
  com.spring.core.basic.printer.PrinterTest
+com/spring/core/basic/quiz/PersonTest.java
+ com.spring.core.basic.quiz.PersonTest
+com/spring/core/basic/quiz/ComputerTest.java
+ com.spring.core.basic.quiz.ComputerTest
